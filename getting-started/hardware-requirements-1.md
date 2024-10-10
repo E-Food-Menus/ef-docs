@@ -8,7 +8,7 @@ description: >-
 
 ## Hardware Requirements
 
-Welcome to the CloudWaitress Hardware Requirements page. Having the right hardware setup is crucial for the smooth operation of your restaurant's online ordering system. Below are our updated recommendations for a seamless experience in 2024.
+Welcome to the eFoodMenus Hardware Requirements page. Having the right hardware setup is crucial for the smooth operation of your restaurant's online ordering system. Below are our updated recommendations for a seamless experience in 2024.
 
 ### Stable Internet Connection
 
@@ -19,7 +19,7 @@ A stable internet connection is essential for our cloud-based system. Here are s
 * **Primary 5G Connection:** Consider exclusively using a 5G connection in areas with reliable mobile networks.
 
 {% hint style="warning" %}
-**Firewall Settings:** Ensure cloudwaitress.com is white-listed on your firewall to prevent connection issues.
+**Firewall Settings:** Ensure eFoodMenus is white-listed on your firewall to prevent connection issues.
 {% endhint %}
 
 ## Computer or Tablet
@@ -54,7 +54,7 @@ We highly recommend using an Android device or Windows tablet/computer. Windows 
 ## Printers
 
 {% hint style="info" %}
-Printers are optional but useful for managing orders.  We highly recommend using a thermal receipt printer.
+Printers are optional but useful for managing orders. We highly recommend using a thermal receipt printer.
 {% endhint %}
 
 #### From Windows
@@ -67,7 +67,7 @@ You can use any ESCPOS printer that is accessible via the network with an IP add
 
 ### Recommended Printers
 
-We recommend printers from [PushPrinter](https://www.pushprinter.com) as we trust and endorse these devices. Additionally, you can use any printer with Windows or Linux drivers or any printer that works with ESCPOS using Android.
+We recommend printers from eFoodMenus as we trust and endorse these devices. Additionally, you can use any printer with Windows or Linux drivers or any printer that works with ESCPOS using Android.
 
 **Branded Printers (from lowest to highest price):**
 
@@ -81,7 +81,7 @@ We recommend printers from [PushPrinter](https://www.pushprinter.com) as we trus
 **Other Printers:**
 
 {% hint style="warning" %}
-We do NOT recommend Star printers for use with Android.  If you are looking to purchase a new printer, we suggest avoiding Star printers at this point in time.
+We do NOT recommend Star printers for use with Android. If you are looking to purchase a new printer, we suggest avoiding Star printers at this point in time.
 {% endhint %}
 
 * Star Micronics TSP143 (Bluetooth, USB, or Wi-Fi)
@@ -103,9 +103,9 @@ For more detailed information and step-by-step guides, visit the following pages
 
 **Q: What should I do if my internet connection is unstable?** A: Consider using a 5G mobile connection as a backup or exclusively if reliable.
 
-For further assistance, feel free to [contact us](https://support.cloudwaitress.com/contact).
+For further assistance, feel free to contact us.
 
-Explore more at [CloudWaitress.com](https://www.cloudwaitress.com).
+Explore more at [CloudWaitress.com](broken-reference).
 
 ***
 

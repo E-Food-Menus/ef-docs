@@ -19,5 +19,5 @@ description: >-
 {% endcontent-ref %}
 
 {% hint style="info" %}
-[Go back to CloudWaitress.com](https://www.cloudwaitress.com)
+[<mark style="color:blue;">Go back to</mark> ](https://efoodmenus.com)<mark style="color:blue;">eFoodMenus.com</mark>
 {% endhint %}

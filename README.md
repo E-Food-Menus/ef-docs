@@ -1,8 +1,9 @@
 ---
 description: >-
-  Welcome to the CloudWaitress Knowledge Base! Here, you'll find comprehensive
+  Welcome to the eFoodMenus Knowledge Base! Here, you'll find comprehensive
   articles to help you set up and master our platform, whether you're just
-  starting or looking to optimise your operations.
+  starting or looking to optimize your operations.
+coverY: 0
 ---
 
 # Overview
@@ -39,6 +40,6 @@ For further assistance, feel free to [contact us](https://support.cloudwaitress.
 
 ***
 
-{% hint style="info" %}
-[Go back to CloudWaitress.com](https://www.cloudwaitress.com)
+{% hint style="success" %}
+Return to eFoodMenus.com.
 {% endhint %}

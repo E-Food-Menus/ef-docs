@@ -1,23 +1,14 @@
----
-description: >-
-  For August 2020, the UK government have released a discount scheme for
-  restaurants called 'Eat Out to Help Out".  This shows how to set-up for your
-  restaurant.
----
-
-# COVID-19 Discount for United Kingdom
+# Discount Example
 
 ## Example
 
-Below shows an example of the COVID-19 discount applied to the checkout.
+Below shows an example of a discount applied to the checkout.
 
 ![Example of COVID-19 Discount working](../../.gitbook/assets/covid19-discount-image.png)
 
-
-
 ## Set-up Process
 
-CloudWaitress supports the COVID-19 Discount for Dine-In orders with the following settings;
+eFoodMensu supports the Discount for Dine-In orders with the following settings;
 
 ![Go to Settings > System > Promo Codes > Create Promo Code](../../.gitbook/assets/covid0.png)
 
@@ -63,10 +54,10 @@ You can now save the promotion to make it live.
 
 ### How to disable promotion
 
-Turning off the COVID-19 promotion is very simple.  Simply open the promotion, check the disable promotion setting.  Alternatively you can delete the promotion from the promotions menu (Settings > System > Promo Codes > Delete) by hitting the trash can button on the right-hand side of the promotion in question.
+Turning off the COVID-19 promotion is very simple. Simply open the promotion, check the disable promotion setting. Alternatively you can delete the promotion from the promotions menu (Settings > System > Promo Codes > Delete) by hitting the trash can button on the right-hand side of the promotion in question.
 
 {% hint style="warning" %}
-**Limitations**&#x20;
+**Limitations**
 
-The COVID-19 discount will only be applied once per order.  In order to obtain a discount for multiple people, each person should order from their own device.
+The COVID-19 discount will only be applied once per order. In order to obtain a discount for multiple people, each person should order from their own device.
 {% endhint %}

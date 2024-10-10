@@ -7,8 +7,6 @@ description: >-
 
 # Promoting Your Store
 
-
-
 {% hint style="info" %}
 Promoting your store goes well beyond the scope of our software. This single page does not do justice to the vast number of promotion strategies available. The below suggestions are here to help you get started.
 {% endhint %}
@@ -19,7 +17,7 @@ Initially, your customers will not be aware of your new online ordering system. 
 
 * Handing out cards or flyers when customers make in-store purchases
 * Putting up a board or sign on your store window
-* Inform customers who call in that they can now order online.&#x20;
+* Inform customers who call in that they can now order online.
 * Add a link from your website to your ordering page
 * Posting the ordering link on your social media channels
 * Add the ordering link to your in-store receipts
@@ -30,7 +28,7 @@ You can consider paying for Facebook or Google ads. Both of these are ways to cr
 
 ## Create A Google Places Listing
 
-A Google places listing will allow local customers to find you far easier as its focused on your locality. This means you are more likely to rank high if the person searching for you is near your store. Follow this link [https://www.google.com.au/business/](https://www.google.com.au/business/) to create or manage your listing.
+A Google places listing will allow local customers to find you far easier as its focused on your locality. This means you are more likely to rank high if the person searching for you is near your store. Follow this link [https://www.google.com/business/](https://www.google.com.au/business/) to create or manage your listing.
 
 Do not forget to add a "Placing an order" link to your places listing. See the following article on how this can be done [https://support.google.com/business/answer/6218037?hl=en](https://support.google.com/business/answer/6218037?hl=en)
 
